@@ -1,5 +1,6 @@
 ChampPlugger
-<img width="628" height="514" alt="image" src="https://github.com/user-attachments/assets/a17c50a2-e0f2-44f2-aa88-0f15b7d689b6" />
+<img width="1598" height="885" alt="image" src="https://github.com/user-attachments/assets/9930b5c3-a3ee-4321-8487-b684bb7e1251" />
+
 
 Auto-sends a message into League of Legends champ select (and the post-game lobby) using Riot's own local client API — the same one tools like Blitz and Porofessor use. No memory reading, no input injection, no touching the game process.
 By twitch.tv/Dan7heM4n
