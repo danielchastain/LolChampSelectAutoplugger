@@ -1,3 +1,6 @@
+<img width="1906" height="903" alt="image" src="https://github.com/user-attachments/assets/a5a80915-39e2-4b1a-84d5-0b6d7d8ff027" />
+
+
 **Auto-sends your Twitch link into every League of Legends champ select — automatically.**
 
 No more typing your channel link every single game. ChampPlugger runs quietly in the background and drops your message into League chat the moment champ select starts, and again after the game ends.
