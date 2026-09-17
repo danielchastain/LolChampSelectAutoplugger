@@ -1,4 +1,6 @@
 ChampPlugger
+<img width="628" height="514" alt="image" src="https://github.com/user-attachments/assets/a17c50a2-e0f2-44f2-aa88-0f15b7d689b6" />
+
 Auto-sends a message into League of Legends champ select (and the post-game lobby) using Riot's own local client API — the same one tools like Blitz and Porofessor use. No memory reading, no input injection, no touching the game process.
 By twitch.tv/Dan7heM4n
 What it does
@@ -16,14 +18,8 @@ Type your message in the box, click Save
 Click Start and minimize — it runs quietly in the background
 Click Stop anytime to pause, or just close the window
 Full walkthrough is built into the app under How to Use.
-Running from source
 ```
-pip install websockets requests urllib3
-python LolAutoPlug.py
-```
-CLI mode (no GUI):
-```
-python LolAutoPlug.py --cli --message "hi team"
-```
+
+
 Support
 If this saves you time, a tip on Ko-fi is always appreciated.
